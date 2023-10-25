@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,59 +87,22 @@
         </div>
     </div>
         </section>
-
-
-        <section class="list">
-            <div class="column">
-                <div class="contents">
-                    <h3 class="cons">Dos Dela Cruz</h3>
-                    <h3 class="cons">Tres Dela Cruz</h3>
-                    <h3 class="cons">Cuatro Dela Cruz</h3>
-                    <h3 class="cons">Cinco Dela Cruz</h3>
-                    <h3 class="cons">Seis Dela Cruz</h3>
-                    <h3 class="cons">Seite Dela Cruz</h3>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="contents">
-                    <h3 class="cons">Behavioral</h3>
-                    <h3 class="cons">Academic</h3>
-                    <h3 class="cons">Behavioral</h3>
-                    <h3 class="cons">Pyschological</h3>
-                    <h3 class="cons">Academic</h3>
-                    <h3 class="cons">Behavioral</h3>
-                </div>
-            </div>
-
-            <div class="column">
-                 <div class="contents">
-                    <h3 class="cons">Grade 9</h3>
-                    <h3 class="cons">Grade 9</h3>
-                    <h3 class="cons">Grade 9</h3>
-                    <h3 class="cons">Grade 9</h3>
-                    <h3 class="cons">Grade 9</h3>
-                    <h3 class="cons">Grade 9</h3>
-                </div>
-            </div>
-
-            <div class="column">
-                <div class="contents">
-                    <h3 class="cons">Rizal</h3>
-                    <h3 class="cons">Rizal</h3>
-                    <h3 class="cons">Rizal</h3>
-                    <h3 class="cons">Rizal</h3>
-                    <h3 class="cons">Rizal</h3>
-                    <h3 class="cons">Rizal</h3>
-                </div>
-            </div>
+        
+        <table>
+            <tr>
+                <td>Name</td>
+                <td>Star Identification</td>
+                <td>Gade</td>
+                <td>Section</td>
+            </tr>
+        </table>
 
             <div class="plus-container">
                 <div class="circle">
                     <i class='bx bx-plus'></i>
                 </div>
             </div>
-        </section>
+
 
 <div class="popup-container" id="popup">
     <div class="popup">
